@@ -12,11 +12,10 @@ Interface :
 
 Service : 
 
-CameraService :  Implements methods inside ICameraInfo interface.
+	CameraService :  Implements methods inside ICameraInfo interface.
 
 
 Tests: 
-
-By Using TDD approach i have tested Controller and CameraService with required tests.
-For Unit i have used NUnit.
+	By Using TDD approach i have tested Controller and CameraService with required tests.
+	For Unit i have used NUnit.
 
